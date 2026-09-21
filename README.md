@@ -12,7 +12,7 @@ Membrane as an RC circuit, forward Euler integration. Rheobase, F–I curve
 with analytical validation, absolute refractory period and its effect on
 the maximum firing rate.
 
-**`hodgkin_huxley.ipynb` — Hodgkin–Huxley** *(in progress)*
+**`hodgkin_huxley.ipynb` — Hodgkin–Huxley** 
 Full conductance-based model: Na⁺/K⁺ gating variables, action potential
 shape, ionic conductances during the spike, refractoriness.
 
